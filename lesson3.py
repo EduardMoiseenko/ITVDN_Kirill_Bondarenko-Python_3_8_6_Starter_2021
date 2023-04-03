@@ -90,5 +90,4 @@ elif operator == '/':
 elif operator == '*':
     print(first_value * second_value)
 else:
-    print('Operator is wrong. Choose from given: + - / *')    
-    
+  print('Operator is wrong. Choose from given: + - / *')

@@ -168,7 +168,7 @@ idea/
 .idea/modules.xml
 .idea/vcs.xml
 .vscode/extensions.json
-.vscode
+.vscode/settings.json
 
 .project
 .pydevproject
